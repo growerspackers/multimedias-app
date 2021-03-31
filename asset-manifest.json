@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/multimedias-app/static/css/main.29fd8f82.chunk.css",
+    "main.js": "/multimedias-app/static/js/main.6c867fb1.chunk.js",
+    "main.js.map": "/multimedias-app/static/js/main.6c867fb1.chunk.js.map",
+    "runtime-main.js": "/multimedias-app/static/js/runtime-main.43f4679c.js",
+    "runtime-main.js.map": "/multimedias-app/static/js/runtime-main.43f4679c.js.map",
+    "static/js/2.d601d582.chunk.js": "/multimedias-app/static/js/2.d601d582.chunk.js",
+    "static/js/2.d601d582.chunk.js.map": "/multimedias-app/static/js/2.d601d582.chunk.js.map",
+    "index.html": "/multimedias-app/index.html",
+    "static/css/main.29fd8f82.chunk.css.map": "/multimedias-app/static/css/main.29fd8f82.chunk.css.map",
+    "static/js/2.d601d582.chunk.js.LICENSE.txt": "/multimedias-app/static/js/2.d601d582.chunk.js.LICENSE.txt",
+    "static/media/iPhone_mockup.fff2ef07.png": "/multimedias-app/static/media/iPhone_mockup.fff2ef07.png",
+    "static/media/icon-1-search.454077e0.svg": "/multimedias-app/static/media/icon-1-search.454077e0.svg",
+    "static/media/icon-2-phone.679dd942.svg": "/multimedias-app/static/media/icon-2-phone.679dd942.svg",
+    "static/media/icon-3-browser.90ce24e6.svg": "/multimedias-app/static/media/icon-3-browser.90ce24e6.svg",
+    "static/media/styles.scss": "/multimedias-app/static/media/mailing-img.1e71f1ad.jpg",
+    "static/media/ms-logo.9411fffe.svg": "/multimedias-app/static/media/ms-logo.9411fffe.svg",
+    "static/media/phone-social-medias.0b0720bb.png": "/multimedias-app/static/media/phone-social-medias.0b0720bb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43f4679c.js",
+    "static/js/2.d601d582.chunk.js",
+    "static/css/main.29fd8f82.chunk.css",
+    "static/js/main.6c867fb1.chunk.js"
+  ]
+}
